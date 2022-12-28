@@ -1,3 +1,19 @@
-fieldset{
-    background-color: #F1F7B5;
+body {
+	background-color: #9ea1d4;
+}
+form {
+	margin: auto;
+	width: 500px;
+}
+fieldset {
+	background-color: #f1f7b5;
+	border: red 0.1rem solid;
+	width: 500px;
+}
+legend {
+	background-color: #fd8a8a;
+	border-radius: 10px;
+	font-size: 1rem;
+	width: 150px;
+	text-align: center;
 }
